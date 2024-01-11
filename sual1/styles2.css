@@ -1,0 +1,32 @@
+body, html {
+
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.text p {
+    font-size: 20px;
+}
+
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    font-weight: 200;
+}
+
+#parallax1 {
+    background-image:url(https://feat.az/uploads/posts/2016-12/1482690632_tumblr_nb24b1fuoc1s8ailwo1_540.jpg)
+}
+
+#parallax2 {
+
+    background-image:url((https://feat.az/uploads/posts/2016-12/1482690632_tumblr_nb24b1fuoc1s8ailwo1_540.jpg))
+}
